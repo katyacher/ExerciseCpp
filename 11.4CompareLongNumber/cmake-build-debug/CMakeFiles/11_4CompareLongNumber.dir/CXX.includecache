@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kate/CLionProjects/11.4CompareLongNumber/main.cpp
+iostream
+-
+string
+/home/kate/CLionProjects/11.4CompareLongNumber/string
+
